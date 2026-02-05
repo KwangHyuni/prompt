@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "format_test",
+    "description": "Testing format conversion",
+    "category": "test",
+    "tags": [
+      "format"
+    ],
+    "author": null,
+    "version": "1.0.0",
+    "created_at": "2026-02-05T00:43:11.159058",
+    "updated_at": "2026-02-05T00:43:11.159062"
+  },
+  "template": "Test template with {var}",
+  "variables": [
+    "var"
+  ],
+  "examples": [],
+  "dependencies": []
+}

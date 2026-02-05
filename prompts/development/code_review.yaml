@@ -1,0 +1,41 @@
+dependencies: []
+examples:
+- context: Web API endpoint
+  description: Review a Flask API endpoint
+  language: Python
+metadata:
+  author: System
+  category: development
+  created_at: '2026-02-05T00:43:11.161414'
+  description: A prompt for conducting thorough code reviews
+  name: code_review
+  tags:
+  - code
+  - review
+  - quality
+  updated_at: '2026-02-05T00:43:11.161419'
+  version: 1.0.0
+template: 'Please review the following code:
+
+
+  {code}
+
+
+  Focus on:
+
+  - Code quality and best practices
+
+  - Potential bugs or issues
+
+  - Performance considerations
+
+  - Security vulnerabilities
+
+
+  Language: {language}
+
+  Context: {context}'
+variables:
+- code
+- language
+- context

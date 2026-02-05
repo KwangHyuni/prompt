@@ -1,0 +1,15 @@
+dependencies: []
+examples: []
+metadata:
+  author: null
+  category: test
+  created_at: '2026-02-05T00:43:11.159058'
+  description: Testing format conversion
+  name: format_test
+  tags:
+  - format
+  updated_at: '2026-02-05T00:43:11.159062'
+  version: 1.0.0
+template: Test template with {var}
+variables:
+- var
