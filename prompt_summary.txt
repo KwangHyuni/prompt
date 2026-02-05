@@ -1,0 +1,41 @@
+============================================================
+PROMPT CONFIGURATION SUMMARY REPORT
+============================================================
+
+📊 OVERVIEW
+  Total Prompts: 2
+  Total Variables: 6
+  Total Examples: 2
+  Avg Variables/Prompt: 3.00
+  Avg Examples/Prompt: 1.00
+
+📁 CATEGORIES (2)
+  - documentation: 1
+  - development: 1
+
+🏷️  TAGS (5)
+  - code: 2
+  - docs: 1
+  - generation: 1
+  - review: 1
+  - quality: 1
+
+📝 PROMPT DETAILS
+
+  documentation_generator
+    Description: Generate comprehensive documentation from code
+    Category: documentation
+    Tags: docs, code, generation
+    Variables: 3
+    Examples: 1
+    Version: 1.0.0
+
+  code_review
+    Description: A prompt for conducting thorough code reviews
+    Category: development
+    Tags: code, review, quality
+    Variables: 3
+    Examples: 1
+    Version: 1.0.0
+
+============================================================
